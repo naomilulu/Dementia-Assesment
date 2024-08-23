@@ -1,0 +1,17 @@
+name,hyps,truth,ifcorrect
+data_process\CTT5-5-2\10CTT.wav,29.278717041015625,24.0,False
+data_process\CTT5-5-2\13CTT.wav,28.349565505981445,30.0,False
+data_process\CTT5-5-2\14CTT.wav,28.874155044555664,30.0,False
+data_process\CTT5-5-2\24CTT.wav,25.767595291137695,13.0,False
+data_process\CTT5-5-2\31CTT.wav,26.71660041809082,25.0,False
+data_process\CTT5-5-2\44CTT.wav,28.103605270385742,30.0,False
+data_process\CTT5-5-2\47CTT.wav,27.47258186340332,30.0,False
+data_process\CTT5-5-2\50CTT.wav,28.03306770324707,30.0,False
+data_process\CTT5-5-2\5CTT.wav,27.936304092407227,27.0,False
+data_process\CTT5-5-2\64CTT.wav,25.79425621032715,19.0,False
+data_process\CTT5-5-2\69CTT.wav,28.237876892089844,30.0,False
+data_process\CTT5-5-2\72CTT.wav,29.715219497680664,30.0,False
+data_process\CTT5-5-2\73CTT.wav,30.025300979614258,30.0,False
+data_process\CTT5-5-2\79CTT.wav,29.655664443969727,30.0,False
+data_process\CTT5-5-2\90CTT.wav,28.45424461364746,30.0,False
+data_process\CTT5-5-2\95CTT.wav,29.083894729614258,30.0,False
